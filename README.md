@@ -22,7 +22,7 @@
 <a href="https://https://vuejs.org/" target="_blank"><img align="left" alt="Vue" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></a>
-<a href="https://redux.js.org/" target="_blank"> <img align="left" alt="Redux" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original"></a>
+<a href="https://redux.js.org/" target="_blank"> <img align="left" alt="Redux" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></a>
 <a href="https://https://html.com/" target="_blank"><img align="left" alt="html" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
 <a href="https://https://www.w3.org/Style/CSS/Overview.en.html/" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" align="left" alt="git" height='42px'/> </a>
