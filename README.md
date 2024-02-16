@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hey there 👋, I'm Andrey Blishch!</h1>
+## 👋 Hey there, I'm Andrey Blishch!
+<a href="https://www.linkedin.com/in/andrew-blishch" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:blishch.andrew@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=blishch.andrew@gmail.com&logoColor=white" alt="Gmail Badge"/></a>
 
 ## 🧐 About Me:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
@@ -31,13 +33,3 @@
 ## 🛠️ My Projects
 <a href="https://andrew-soldat.github.io/film-catalog/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/film-catalog/assets/img/logo.svg" height="68" align="left"> </a>
 <a href="https://andrew-soldat.github.io/english-for-kids/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/english-for-kids/favicon.ico" height="68" align="left"> </a>
-
-## 📊 Contacts
-<div id="badges">
-  <a href="https://www.linkedin.com/in/andrew-blishch" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:blishch.andrew@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=green" alt="Gmail Badge"/>
-  </a>
-</div>
