@@ -8,9 +8,12 @@
 
 ### 🧐 More About Me:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-  I'm a passionate self-taught frontend developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-  I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<p>I'm a passionate self-taught frontend developer.</p>
+<p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</p>
+<p>I take great care in the experience, architecture, and code quality of the things I build.</p>
+<p>I am also an open-source enthusiast and maintainer.</p>
+<p>I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>   
+   
 
 <br>
 
@@ -30,7 +33,7 @@
 
 ### 🛠️ My Projects
 <a href="https://andrew-soldat.github.io/film-catalog/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/film-catalog/assets/img/logo.svg" height="68" align="left"> </a>
-
+<a href="https://andrew-soldat.github.io/english-for-kids/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/english-for-kids/favicon.ico" height="68" align="left"> </a>
 <br>
 
 ### 📊 Github Stats
