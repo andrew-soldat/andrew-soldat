@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
 
-## Hey there 👋, I'm Andrey Blishch!
+<h1 align="center">Hey there 👋, I'm Andrey Blishch!</h1>
 
 ## 🧐 About Me:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
@@ -26,8 +26,8 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" height='42px'/> </a>
 
 ## 🛠️ My Projects
-* <a href="https://andrew-soldat.github.io/film-catalog/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/film-catalog/assets/img/logo.svg" height="68" align="left"> </a>
-* <a href="https://andrew-soldat.github.io/english-for-kids/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/english-for-kids/favicon.ico" height="68" align="left"> </a>
+* <p><a href="https://andrew-soldat.github.io/film-catalog/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/film-catalog/assets/img/logo.svg" height="68" align="left"> </a></p>
+* <p><a href="https://andrew-soldat.github.io/english-for-kids/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/english-for-kids/favicon.ico" height="68" align="left"> </a></p>
 
 ## 📊 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-soldat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
