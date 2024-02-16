@@ -35,7 +35,7 @@
 <a href="https://andrew-soldat.github.io/film-catalog/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/film-catalog/assets/img/logo.svg" height="68" align="left"> </a>
 <a href="https://andrew-soldat.github.io/english-for-kids/#/" target="_blank"> <img alt="film-catalog" src="https://andrew-soldat.github.io/english-for-kids/favicon.ico" height="68" align="left"> </a>
 
-<br>
+<br/>
 
 ### 📊 Github Stats
 
