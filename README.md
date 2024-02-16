@@ -2,14 +2,15 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
 
+### <h1 align="center">Hey there 👋, I'm Andrey Blishch!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
 <br>
+
+### 🧐 More About Me:
+<p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-<h1 align="center">
-  Hey there 👋, I'm Andrey Blishch!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<p>
+
   I'm a passionate self-taught frontend developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </p>
 <p>
