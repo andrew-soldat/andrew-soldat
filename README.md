@@ -4,7 +4,7 @@
 
 ## 👋 Hey there, I'm Andrey Blishch!
 <a href="https://www.linkedin.com/in/andrew-blishch" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:blishch.andrew@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=blishch.andrew@gmail.com&logoColor=white" alt="Gmail Badge"/></a>
+<a href="mailto:blishch.andrew@gmail.com" target="_blank"><img src="https://img.shields.io/badge/blishch.andrew@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
 ## 🧐 About Me:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
