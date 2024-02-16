@@ -7,7 +7,7 @@
 <a href="mailto:blishch.andrew@gmail.com" target="_blank"><img src="https://img.shields.io/badge/blishch.andrew@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
 ## 🧐 About Me:
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="260px"/>
 <p>I'm a passionate self-taught frontend developer.</p>
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</p>
 <p>I take great care in the experience, architecture, and code quality of the things I build.</p>
